@@ -1,0 +1,28 @@
+class Bike
+{
+	String bike_name;
+	String bike_color;
+	double bike_cost;
+	School(String a, String b, double c) 
+	{
+		bike_name = a;
+        bike_color= b;
+		bike_cost = c;
+	}
+
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Main Starts");
+
+		Bike s1 = new Bike("Royal Enfield", "Black", 300000.00);
+		System.out.println(s1.bike_name);
+		System.out.println(s1.bike_color);
+		System.out.println(s1.bike_cost);
+
+
+
+
+		System.out.println("Main Starts");
+	}
+}

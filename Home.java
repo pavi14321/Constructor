@@ -1,0 +1,30 @@
+class Home
+{
+	
+	String name;
+	int cost;
+	String colour;
+
+	Home(String a, int b, String c) 
+	{
+		name = a;
+		cost = b;
+		colour = c;
+	}
+
+
+	public static void main(String[] args) 
+	{
+		System.out.println("Main Starts");
+
+		Home s1 = new Home("Praveen",20000000,"Hotponk");
+		System.out.println(s1.name);
+		System.out.println(s1.cost);
+		System.out.println(s1.colour);
+
+
+
+
+		System.out.println("Main Starts");
+	}
+}
