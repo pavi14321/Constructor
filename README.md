@@ -18,12 +18,7 @@ I'm passionate about crafting clean and efficient code. I enjoy building web app
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical" width="47%" />
-</p>
 
 ---
 
